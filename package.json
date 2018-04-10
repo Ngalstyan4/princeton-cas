@@ -1,0 +1,31 @@
+{
+  "name": "passport-pcas",
+  "version": "1.0.0",
+  "description": "an npm module that implements passport with on campus cas auth system",
+  "main": "Auth.js",
+  "dependencies": {
+    "passport": "^0.4.0",
+    "passport-custom": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngalstyan4/princeton-cas.git"
+  },
+  "keywords": [
+    "Princeton",
+    "CAS",
+    "authentication",
+    "passport",
+    "nodejs"
+  ],
+  "author": "Narek Galstyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ngalstyan4/princeton-cas/issues"
+  },
+  "homepage": "https://github.com/Ngalstyan4/princeton-cas#readme"
+}
